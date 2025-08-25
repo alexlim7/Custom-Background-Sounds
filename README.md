@@ -16,11 +16,9 @@ This app plays customizable background sounds to mask environmental noise, impro
 
 ## Screenshots
 
-Apple Settings:
-<img width="1170" height="2532" alt="IMG_4034" src="https://github.com/user-attachments/assets/45f8785c-06d0-4a2e-a6c8-a57e460cd8f9" />
+![Apple Settings](https://github.com/user-attachments/assets/45f8785c-06d0-4a2e-a6c8-a57e460cd8f9){: width="300px" }
 
-This App:
-<img width="1170" height="2532" alt="IMG_4035" src="https://github.com/user-attachments/assets/ba66a2c7-0698-43c2-ad53-96fb410ecaa3" />
+![This App](https://github.com/user-attachments/assets/ba66a2c7-0698-43c2-ad53-96fb410ecaa3){: width="300px" }
 
 ## Requirements
 
@@ -39,5 +37,5 @@ git clone https://github.com/alexlim7/Custom-Background-Sounds.git
 
 ## Notes
 
-- Sample.p3 is included for in-app testing.
+- Sample.mp3 is included for in-app testing.
 - App icon sourced from shmector.com
