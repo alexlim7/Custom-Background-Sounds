@@ -16,16 +16,11 @@ This app plays customizable background sounds to mask environmental noise, impro
 
 ## Screenshots
 
-<div style="display: flex; gap: 20px; align-items: flex-start;">
-  <div style="text-align: center;">
-    <p>Apple Settings:</p>
-    <img src="https://github.com/user-attachments/assets/45f8785c-06d0-4a2e-a6c8-a57e460cd8f9" alt="IMG_4034" width="200"/>
-  </div>
-  <div style="text-align: center;">
-    <p>This App:</p>
-    <img src="https://github.com/user-attachments/assets/ba66a2c7-0698-43c2-ad53-96fb410ecaa3" alt="IMG_4035" width="200"/>
-  </div>
-</div>
+<p>Apple Settings:</p>
+<img src="https://github.com/user-attachments/assets/45f8785c-06d0-4a2e-a6c8-a57e460cd8f9" alt="IMG_4034" width="300"/>
+
+<p>This App:</p>
+<img src="https://github.com/user-attachments/assets/ba66a2c7-0698-43c2-ad53-96fb410ecaa3" alt="IMG_4035" width="300"/>
 
 ## Requirements
 
