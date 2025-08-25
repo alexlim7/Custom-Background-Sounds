@@ -14,6 +14,11 @@ This app plays customizable background sounds to mask environmental noise, impro
 - Option to stop background sounds when the device is locked.
 - Fully SwiftUI-based interface with clean dark-themed GroupBoxes.
 
+## Files
+
+- AudioManager.swift – Handles audio playback, volume control, and media interaction.
+- ContentView.swift – SwiftUI interface for controlling playback and settings.
+
 ## Screenshots
 
 <p>Apple Settings:</p>
@@ -40,4 +45,4 @@ git clone https://github.com/alexlim7/Custom-Background-Sounds.git
 ## Notes
 
 - Sample.mp3 is included for in-app testing.
-- App icon sourced from shmector.com
+- App icon sourced from shmector.com.
